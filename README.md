@@ -2,6 +2,8 @@
 
 The simplest cli possible to unzip a file on a Windows machine. Created out of pure necessity.
 
+[![Build status](https://ci.appveyor.com/api/projects/status/4uft580q1shnrpxu?svg=true)](https://ci.appveyor.com/project/Mavens/py-unzip)
+
 ## Dependencies
 
 - Python 2.7
