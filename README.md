@@ -12,7 +12,7 @@ The simplest cli possible to unzip a file on a Windows machine. Created out of p
 pip install pyinstaller
 git clone https://github.com/joeferraro/py-unzip
 cd py-unzip
-pyinstaller py-unzip.spec --one-file
+pyinstaller unzip.spec --one-file
 ```
 
 ## Usage
